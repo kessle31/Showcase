@@ -1,4 +1,4 @@
-Showcase: Data science side projects
+Showcase: Data Science side projects
 ========
 
-Showcase data science projects
+Programs that I wrote for Data Science side projecs.
