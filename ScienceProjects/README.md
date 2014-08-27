@@ -1,4 +1,6 @@
-Showcase
+Showcase: Science
 ========
 
-Showcase data science projects
+Exemplary programs that I wrote as part of my research projects.
+
+
