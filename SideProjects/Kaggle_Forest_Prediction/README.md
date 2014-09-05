@@ -11,6 +11,6 @@ train.csv -- Training set provided by Kaggle.com
 
 test.csv -- Test set provided by Kaggle.com
 
-ForestPrediction.csv -- Prediciton file for the test set
+ForestPrediction.csv -- Prediction file for the test set
 
 CV_data -- Crossvalidation data (can be visualized in ForestPrediction.ipynb)
