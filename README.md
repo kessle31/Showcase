@@ -1,7 +1,7 @@
 Showcase
 ========
 
-This repository showcases exemplary programming excercises in Python, Matlab, and Mathematica. 
+This repository showcases exemplary programming exercises in Python, Matlab, and Mathematica. 
 
 /ScienceProjects contains exemplary programs I wrote as part of my research (Matlab, Matematica)
 
