@@ -33,7 +33,7 @@ def build_api_call(key, npr_id, search_string, feed_title):
     
     return url 
     
-def call_station_api(url, feed_title, save_file):
+def call_station_api(url, feed_title):
     '''calls the NPR api with the request specified in url, returns the responds in json 
        format, and saves it under feed_title.json
     '''
